@@ -1,0 +1,49 @@
+Date,Wave,Hospital,Gender,Weight (kg),ABO group,rhesus group,contaminated
+09/03/2020,1,Saint-Luc,F,66,B,positive,N
+09/03/2020,1,Erasme,F,73,O,negative,N
+09/03/2020,1,Brugmann,F,NA,AB,negative,N
+09/03/2020,1,Saint-Luc,F,78,A,positive,N
+09/03/2020,1,Erasme,F,82,O,positive,N
+09/03/2020,1,Brugmann,F,47,B,negative,N
+09/03/2020,1,Saint-Luc,F,75,AB,positive,Y
+09/03/2020,1,Erasme,F,91,A,positive,N
+09/03/2020,1,Brugmann,F,88,A,negative,N
+09/03/2020,1,Saint-Luc,F,68,AB,positive,N
+09/03/2020,1,Erasme,F,61,O,negative,Y
+09/03/2020,1,Brugmann,F,72,O,positive,N
+09/03/2020,1,Saint-Luc,M,98,AB,positive,N
+09/03/2020,1,Erasme,M,75,O,negative,N
+09/03/2020,1,Brugmann,M,NA,B,negative,N
+09/03/2020,1,Saint-Luc,M,69,AB,positive,N
+09/03/2020,1,Erasme,M,102,A,negative,N
+09/03/2020,1,Brugmann,M,117,O,positive,Y
+09/03/2020,1,Saint-Luc,M,96,B,positive,Y
+09/03/2020,1,Erasme,M,96,O,positive,N
+09/03/2020,1,Brugmann,M,96,AB,negative,N
+09/03/2020,1,Saint-Luc,M,NA,A,positive,N
+09/03/2020,1,Erasme,M,93,B,negative,N
+09/03/2020,1,Brugmann,M,107,O,negative,N
+09/03/2020,2,Saint-Luc,F,74,O,positive,N
+09/03/2020,2,Saint-Luc,M,NA,AB,negative,N
+09/03/2020,2,Saint-Luc,F,61,B,negative,N
+09/03/2020,2,Saint-Luc,M,68,A ,positive,Y
+09/03/2020,2,Saint-Luc,F,82,O,negative,N
+09/03/2020,2,Saint-Luc,M,NA,A,positive,N
+09/03/2020,2,Saint-Luc,F,48,AB,positive,N
+09/03/2020,2,Saint-Luc,M,106,O,negative,N
+09/03/2020,2,Erasme,M,96,A,negative,N
+09/03/2020,2,Erasme,F,59,AB ,positive,Y
+09/03/2020,2,Erasme,M,78,A,positive,N
+09/03/2020,2,Erasme,F,NA,B,negative,N
+09/03/2020,2,Erasme,M,92,AB,positive,N
+09/03/2020,2,Erasme,F,61,O ,negative,Y
+09/03/2020,2,Erasme,M,68,AB,positive,N
+09/03/2020,2,Erasme,F,45,O ,negative,N
+09/03/2020,2,Brugmann,M,105,AB,negative,N
+09/03/2020,2,Brugmann,F,NA,O,positive,N
+09/03/2020,2,Brugmann,F,49,B,positive,N
+09/03/2020,2,Brugmann,M,68,B ,negative,Y
+09/03/2020,2,Brugmann,M,90,AB ,positive,Y
+09/03/2020,2,Brugmann,F,71,A,negative,N
+09/03/2020,2,Brugmann,F,60,O,negative,N
+09/03/2020,2,Brugmann,M,95,A,positive,N
