@@ -1,4 +1,4 @@
-Date,Wave,Hospital,Gender,Weight (kg),ABO group,rhesus group,contaminated
+Date,Wave,Hospital,Gender,Weight_kg,ABO_group,rhesus_group,contaminated
 09/03/2020,1,Saint-Luc,F,66,B,positive,N
 09/03/2020,1,Erasme,F,73,O,negative,N
 09/03/2020,1,Brugmann,F,NA,AB,negative,N
